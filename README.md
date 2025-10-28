@@ -48,4 +48,4 @@ Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Jupyter Notebook
 
 **Kelvin Omina**
 
-Would you like me to make this even **more minimal (under 10 lines)** for GitHub display, or keep this brief informative format?
+
