@@ -2,11 +2,11 @@
 
 ---
 
-# 📊 SyriaTel Customer Churn Prediction
+# 📊 Data-Driven Prediction of Customer Turnover in the Telecommunications Sector: A Case Study of SyriaTel
 
 ## 🔍 Overview
 
-This project builds a **data-driven model** to predict customer churn for **SyriaTel**, a leading telecom provider. By analyzing customer behavior and service data, the goal is to help the company **identify and retain at-risk customers**.
+This project builds a **data-driven model** to predict customer turnover in the telecommunication sector case study of **SyriaTel**, a leading telecom provider. By analyzing customer behavior and service data, the goal is to help the company **identify and retain at-risk customers**.
 
 ---
 
